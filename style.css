@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #F1C117;
+    font-size: 20px;
+}
+
+.sagic {
+    text-align: center;
+    border: 3px solid #F1C117;
+    border-radius: 12px;
+}
+
+main {
+    font-size: 25px;
+}
+
+main img {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+footer {
+    background-color: #F1C117;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #1D1AB2;
+    border: 3px solid #1D1AB2;
+    border-radius: 10px;
+    padding: 1px;
+}
